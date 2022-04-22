@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.hero{
+	width: 100%;
+	margin: auto;
+	background-image: url(../img/mockup-xd.png);
+background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 500px;
+    padding-bottom: 715px;
+
+}
+.hero-text{
+	text-align: center;
+	padding: 115px 150px;
+	background: white;
+}
+.navbar-nav{
+	align-items: center!important;
+	padding-left: 399px;
+}
+.navbar-brand i{
+	padding-left: 30px;
+}
